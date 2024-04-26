@@ -3,7 +3,7 @@
 
 - :telescope: I’m a Senior Software Engineer with over 9 years of experience in building, architecting, deploying, and selling more than 200 websites, applications, and APIs.
 
-- :seedling: Exploring building embedded systems on the side.
+- :seedling: Explore building embedded systems on the side.
 
 - :zap: In my free time, I am a musician that loves to play guitar, bass, piano, and any random instrument that I can find. Catch me either outdoors on my bike / camping or at a concert / live event in town 
 
