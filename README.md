@@ -1,7 +1,7 @@
 
 ### 👋 Hi, I'm Ari!  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Atlanta Georgia.
 
-- :telescope: I’m a Senior Software Engineer with over 9 years of experience in building, architecting, deploying, and selling more than 200 websites, applications, and APIs.
+- :telescope: I’m a Senior Software Engineer with over 9 years of experience in building, architecting, and deploying more than 200 websites, applications, and APIs.
 
 - :seedling: Explore building embedded systems on the side.
 
