@@ -34,9 +34,6 @@
 
 ---
 
-### :fire: My Stats :
-<img src="http://github-readme-streak-stats.herokuapp.com?user=apatwary12&theme=dark&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apatwary12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
