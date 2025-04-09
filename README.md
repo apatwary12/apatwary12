@@ -7,7 +7,6 @@
 
 - :zap: In my free time, I am a musician that loves to play guitar, bass, piano, and any random instrument that I can find. Catch me either outdoors on my bike / camping or at a concert / live event in town 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ari-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ari-patwary-43145158/)
 
 ---
 
