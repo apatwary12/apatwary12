@@ -29,9 +29,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apatwary12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
